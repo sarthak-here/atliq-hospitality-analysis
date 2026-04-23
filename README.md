@@ -1,5 +1,10 @@
 # AtliQ Hotels - Hospitality Data Analysis
 
+> **[System Design](./systemdesign.md)** - Architecture, data flow, and how it works end-to-end
+
+---
+
+
 A data analysis project on AtliQ Hotels, a fictional Indian hotel chain. I worked through booking and occupancy data across 25 properties in 4 cities to pull out business insights using Python and Pandas.
 
 ---
